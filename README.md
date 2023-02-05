@@ -1,3 +1,5 @@
+Fact time tracking: 12h
+
 Task solution is inspired by: https://github.com/gorilla/websocket/tree/master/examples/chat
 
 Possible optimizations: https://github.com/gobwas/ws (zero-copy upgrade)
